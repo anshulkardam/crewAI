@@ -30,4 +30,4 @@ The goal of this repository is to:
 1. Clone the repo:
 2. Install uv
 3. Install crewai cli tool
-4. run crewai run 
+4. run ``crewai run``
